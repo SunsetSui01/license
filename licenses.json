@@ -1,7 +1,7 @@
 {
   "L4RY-TEST-12345": {
     "expiry": "2026-12-31",
-    "banned": true,
+    "banned": false,
     "hwid": "e5ef8dac4bfebea9"
   }
 }
