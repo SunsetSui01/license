@@ -36,7 +36,7 @@
   },
   "L4RY-USER-008": {
     "expiry": "2026-12-31",
-    "banned": false,
+    "banned": true,
     "hwid": ""
   },
   "L4RY-USER-009": {
