@@ -1,7 +1,102 @@
 {
-  "L4RY-TEST-12345": {
+  "L4RY-USER-001": {
     "expiry": "2026-12-31",
     "banned": false,
-    "hwid": "e5ef8dac4bfebea9"
+    "hwid": ""
+  },
+  "L4RY-USER-002": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-003": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-004": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-005": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-006": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-007": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-008": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-009": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-010": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-011": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-012": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-013": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-014": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-015": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-016": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-017": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-018": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-019": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
+  },
+  "L4RY-USER-020": {
+    "expiry": "2026-12-31",
+    "banned": false,
+    "hwid": ""
   }
 }
